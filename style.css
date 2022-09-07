@@ -1,0 +1,104 @@
+
+
+body {
+
+  background-color: #E7E7DE;
+
+}
+
+
+h1{
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align:center; color: #874C62;
+    text-shadow: 2px 2px 2px #F2D388;
+    font-weight: bold ;
+    border-style:solid; border-width: 50px; height:100px;
+    margin-top: 100px;
+    background-color: #F0F2B6;
+
+  }
+
+.intro{
+  display: flex;
+  width: 600px;
+  height: 300px;
+
+}
+
+
+h2{
+   color:  #002B5B;
+
+ }
+
+
+ li {
+  color:darkred ;
+  text-decoration: inherit;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 1.5rem
+}
+
+#image1 {
+  border: #00C897;
+  width: 200px;
+  height: 200px;
+  border: 1px solid;
+
+}
+
+#image2 {
+  width: 200px;
+  height: 200px;
+  border: 1px solid;
+  border-color: #00C897;
+  border: solid;
+}
+
+
+
+.diet {
+  font-family: 'Roboto', sans-serif;'
+  font-style: italic;
+  font-size: 5rem;
+  text-decoration: underline;
+
+}
+
+.diet:hover {
+  color: #000;
+}
+
+
+
+.hyg{
+
+ font-family: 'Roboto', sans-serif;
+ font-style: italic;
+ font-size: 1rem;
+ text-align: left;
+
+}
+
+.pup{
+  font-family: 'roboto', sans-serif;
+  font-style: italic;
+  font-size: 1rem;
+
+}
+
+.pup{
+  font-family: 'roboto', sans-serif;
+  font-style: italic;
+  font-size: 1rem;
+
+  }
+
+  .hel {
+    font-family: 'roboto', sans-serif;
+    font-style: italic;
+    font-size: 1rem;
+
+   }
